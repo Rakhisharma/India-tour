@@ -1,0 +1,18 @@
+
+{
+  "version": "1.0",
+  "name": "INDIA -Country guide-",
+  "description": "An application to guide people about the tour and tourrism in India",
+  "launch_path": "/index.html",
+ 
+  "icons": {
+    "128": "/img/128px.appicon.png",
+    "90":  "/img/90px.appicon.png",
+    "60": "/img/60px.appicon.png",
+    "32": "/img/32px.appicon.png"
+  },
+  "developer": {
+    "name": "Rakhi Sharma"
+  },
+  "default_locale": "en"
+}
